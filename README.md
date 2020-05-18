@@ -9,3 +9,5 @@ desk-src
 
 Lazy load class: 
 lazy-load-me
+
+use and abuse my code ¯\_(ツ)_/¯
